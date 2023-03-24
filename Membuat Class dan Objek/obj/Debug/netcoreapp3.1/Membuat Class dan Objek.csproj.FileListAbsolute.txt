@@ -1,0 +1,14 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.deps.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.runtimeconfig.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.runtimeconfig.dev.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\bin\Debug\netcoreapp3.1\Membuat Class dan Objek.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.GeneratedMSBuildEditorConfig.editorconfig
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.AssemblyInfoInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.AssemblyInfo.cs
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P3, Class dan Objek\Membuat Class dan Objek\Membuat Class dan Objek\obj\Debug\netcoreapp3.1\Membuat Class dan Objek.genruntimeconfig.cache
